@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dinki Agrawal</h1>
-<h3 align="center">A passionate for Learning .</h3>
+<h3 align="center">A passionate for Learning ❤️.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dinkiagrawal-15&label=Profile%20views&color=0e75b6&style=flat" alt="dinkiagrawal-15" /> </p>
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/zruQbn0E0eva8/giphy.gif" alt="DinkiAgrawal-15" /)(/p)
