@@ -8,7 +8,7 @@ About Me:-
 - 🌱 I’m currently learning Android Application Development
 - 👯 I’m looking to collaborate on Good Project Team.
 - 🤔 I’m looking for Internship.
-- 💬 Ask me about Android Application.
+- 💬 Ask me about :--
 <code><img src="https://cdn.svgporn.com/logos/android-icon.svg" width="30" alt="JavaScript"></code>
 <code><img src="https://cdn.svgporn.com/logos/java.svg" width="30" alt="JavaScript"></code>
 
