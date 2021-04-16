@@ -2,7 +2,7 @@
 
 
 
-Here are some ideas to get you started:
+About Me:-
 
 - 🔭 I’m currently persuing Engineering.
 - 🌱 I’m currently learning Android Application Development
