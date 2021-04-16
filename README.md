@@ -24,8 +24,10 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dinkiagrawal-15&show_icons=true&theme=radical" alt="dinkiagrawal-15" /></p> <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dinkiagrawal-15&" alt="dinkiagrawal-15" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dinkiagrawal-15&" alt="dinkiagrawal-15" /></p><br><br>
 
+<p><img align="left" src=https://github-readme-stats.vercel.app/api/top-langs/?username=dinkiagrawal-15&layout=compact)](https://github.com/dinkiagrawal-15/github-readme-stats)
+        </p><br>
 
 
 About Me:-
