@@ -32,7 +32,7 @@
 
 About Me:-
 
-- 🔭 I’m currently persuing Engineering.
+- 🔭 I’m currently pursuing Engineering.
 - 🌱 I’m currently learning Android Application Development
 - 👯 I’m looking to collaborate on Good Project Team.
 - 🤔 I’m looking for Internship.
