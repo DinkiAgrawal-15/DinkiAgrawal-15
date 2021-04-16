@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hey ,I' m Dinki Agrawal 👋
 
-<!--
-**DinkiAgrawal-15/DinkiAgrawal-15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently persuing Btech.
+- 🌱 I’m currently learning Android Application Development
+- 👯 I’m looking to collaborate on Good Company.
+- 🤔 I’m looking for help with Top recruiters.
+- 💬 Ask me about Android Application
+- 📫 How to reach me: https://www.linkedin.com/in/dinki-agrawal-b1966b193/
+- 😄 Pronouns: She/Miss
+- ⚡ Fun fact: Youtube surfing.
 -->
