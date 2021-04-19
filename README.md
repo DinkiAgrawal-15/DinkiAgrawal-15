@@ -44,6 +44,6 @@ About Me:-
 
 - 📫 How to reach me: https://www.linkedin.com/in/dinki-agrawal-b1966b193/
 -
-- 😄 Pronouns: She/Miss
+- 😄 Pronouns: Miss Dinki Agrawal😊 
 - ⚡ Fun fact: “If I won the lottery, the first thing I’d buy would be costly mobile phone😄.”
 -->
