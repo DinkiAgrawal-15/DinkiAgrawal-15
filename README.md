@@ -45,6 +45,5 @@ About Me:-
 
 - 📫 How to reach me: https://www.linkedin.com/in/dinki-agrawal-b1966b193/
 -
-- 😄 Pronouns: Miss Peddina Dinki Agrawal😊 
-- ⚡ Fun fact: “If I won the lottery, the first thing I’d buy would be costly mobile phone😄.”
--->
+- 😄 Pronouns: Miss Dinki Agrawal😊 
+- ⚡ Fun fact: “If I won the lottery, the first thing I Would buy a FLAGSHIP PHONE😄.
