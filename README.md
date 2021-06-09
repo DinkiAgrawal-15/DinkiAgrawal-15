@@ -3,7 +3,7 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dinkiagrawal-15&label=Profile%20views&color=0e75b6&style=flat" alt="dinkiagrawal-15" /> </p>
-<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="DinkiAgrawal-15" /)(/p)
+<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/WUTywPPYZpdDChyBaZ/giphy.gif" alt="DinkiAgrawal-15" /)(/p)
 
 
 
