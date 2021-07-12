@@ -4,6 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dinkiagrawal-15&label=Profile%20views&color=0e75b6&style=flat" alt="dinkiagrawal-15" /> </p>
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/WUTywPPYZpdDChyBaZ/giphy.gif" alt="DinkiAgrawal-15" /)(/p)
+     <img align="center" src="https://github-readme-stats.vercel.app/api/<pin>/?username=<DinkiAgrawal-15>&theme=<THEME_NAME>" />
+
 
 
 
