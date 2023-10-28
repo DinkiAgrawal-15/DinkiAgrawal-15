@@ -40,13 +40,9 @@
 
 About Me:-
 
-- 🔭 I’m currently pursuing Engineering.
-- 🌱 I’m currently learning Android Application Development
 - 👯 I’m looking to collaborate on Good Project Team.
-- 🤔 I’m looking for Internship on Android Development and java.
 - 💬 Ask me about :--
 <code><img src="https://cdn.svgporn.com/logos/android-icon.svg" width="30" alt="JavaScript"></code>
 <code><img src="https://cdn.svgporn.com/logos/java.svg" width="30" alt="JavaScript"></code>
 - 📫 How to reach me: https://www.linkedin.com/in/dinki-agrawal-b1966b193/
-- 😄 Pronouns: Miss Dinki Agrawal😊 
-- ⚡ Fun fact: “If I won the lottery, the first thing I Would buy a FLAGSHIP PHONE😄.
+
